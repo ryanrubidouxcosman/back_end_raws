@@ -1,0 +1,6 @@
+{
+  id: @raw.id,
+  name: @raw.name,
+  code: @raw.code,
+  density: @raw.density,
+}

@@ -1,0 +1,9 @@
+{
+  id: @product.id,
+  name: @product.name,
+  type: @product.type,
+  density: @product.density,
+  image_url: @product.image_url,
+  description: @product.description,
+  raw_id: @product.raw_id,
+}

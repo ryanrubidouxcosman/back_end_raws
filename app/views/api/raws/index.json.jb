@@ -1,0 +1,8 @@
+@raws.map do |raw|
+  {
+    id: raw.id,
+    name: raw.name,
+    code: raw.code,
+    density: raw.density,
+  }
+end
